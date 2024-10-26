@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Necrotic-bonk
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on nowhere... im just learning
 - 📫 How to reach me dm me on twitter or on discord
 - @Necrotic_TV, mrnecrotic
